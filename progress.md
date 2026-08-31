@@ -1,0 +1,254 @@
+﻿# CodeEval Progress Tracker
+
+Tick off each challenge as you finish it.
+
+## Easy (82)
+
+- [/] [001 - Fizz Buzz](easy/001-fizz-buzz/readme.md) - A simple game involving divisibility tests.
+- [/] [003 - Prime Palindrome](easy/003-prime-palindrome/readme.md) - Biggest prime palindrome < 1000.
+- [/] [004 - Sum of Primes](easy/004-sum-of-primes/readme.md) - Sum of first 1000 primes.
+- [/] [008 - Reverse words](easy/008-reverse-words/readme.md) - Reversing an input sequence of words.
+- [/] [018 - Multiples of a Number](easy/018-multiples-of-a-number/readme.md) - Multiples of a number greater than another number.
+- [ ] [019 - Bit Positions](easy/019-bit-positions/readme.md) - Bits in position x,y are same or different.
+- [/] [020 - Lowercase](easy/020-lowercase/readme.md) - Lowercase text.
+- [/] [021 - Sum of Digits](easy/021-sum-of-digits/readme.md) - Sum of digits comprising a number.
+- ['] [022 - Fibonacci Series](easy/022-fibonacci-series/readme.md) - Print out the nth fibonacci number.
+- ['] [023 - Multiplication Tables](easy/023-multiplication-tables/readme.md) - Print out the grade school multiplication table upto 12*12.
+- ['] [024 - Sum of Integers from File](easy/024-sum-of-integers-from-file/readme.md) - Print the sum of integers read from a file.
+- ['] [025 - Odd Numbers](easy/025-odd-numbers/readme.md) - Print the odd numbers from 1 to 99.
+- ['] [026 - File Size](easy/026-file-size/readme.md) - Print the file size in bytes.
+- [/] [029 - Unique Elements](easy/029-unique-elements/readme.md) - Extract unique list from a sorted list of numbers.
+- [/] [030 - Set Intersection](easy/030-set-intersection/readme.md) - Print the intersection of two sets of numbers.
+- [ ] [031 - Rightmost Char](easy/031-rightmost-char/readme.md) - Print the position of the rightmost occurrence of a char.
+- [ ] [039 - Happy Numbers](easy/039-happy-numbers/readme.md) - Determine if a number is a happy number or not.
+- [ ] [040 - Self Describing Numbers](easy/040-self-describing-numbers/readme.md) - Determine if a number is a self-describing number or not.
+- [ ] [062 - N Mod M](easy/062-n-mod-m/readme.md) - Determine the modulus (without the modulus operator).
+- [ ] [067 - Hex to Decimal](easy/067-hex-to-decimal/readme.md) - Convert a hex number to it's decimal equivalent.
+- [/] [082 - Armstrong Numbers](easy/082-armstrong-numbers/readme.md) - Determine if a number is an armstrong number.
+- [ ] [083 - Beautiful Strings](easy/083-beautiful-strings/readme.md) - Facebook Hacker Cup 2013 problem.
+- [ ] [087 - Query Board](easy/087-query-board/readme.md) - Set and get values from a matrix using tiny DSL.
+- [ ] [091 - Simple Sorting](easy/091-simple-sorting/readme.md) - Sort several numbers.
+- [ ] [092 - Penultimate Word](easy/092-penultimate-word/readme.md) - Find the next-to-last word.
+- [ ] [093 - Capitalize Words](easy/093-capitalize-words/readme.md) - Capitalize words in a sentence.
+- [ ] [096 - Swap Case](easy/096-swap-case/readme.md) - Swap case in a string.
+- [ ] [097 - Find a Writer](easy/097-find-a-writer/readme.md) - Find a famous writer in a string.
+- [ ] [099 - Calculate Distance](easy/099-calculate-distance/readme.md) - Calculate a distance between two points.
+- [ ] [100 - Even Numbers](easy/100-even-numbers/readme.md) - Determine if a number is even or not.
+- [ ] [102 - JSON menu IDs](easy/102-json-menu-ids/readme.md) - Calculate IDs in JSON menu.
+- [ ] [103 - Lowest Unique Number](easy/103-lowest-unique-number/readme.md) - Find the lowest unique number in a set.
+- [ ] [104 - Word to Digit](easy/104-word-to-digit/readme.md) - Substitute words to digits.
+- [ ] [106 - Roman Numerals](easy/106-roman-numerals/readme.md) - Convert a cardinal number to a Roman numeral.
+- [ ] [107 - Shortest Repetition](easy/107-shortest-repetition/readme.md) - Find the shortest repetition in a string.
+- [ ] [111 - Longest Word](easy/111-longest-word/readme.md) - Get the longest word in a sentence.
+- [ ] [112 - Swap Elements](easy/112-swap-elements/readme.md) - Swap elements in a list.
+- [ ] [113 - Multiply Lists](easy/113-multiply-lists/readme.md) - Multiply elements in 2 lists.
+- [ ] [115 - Mixed Content](easy/115-mixed-content/readme.md) - Separate words with digits.
+- [ ] [116 - Morse Code](easy/116-morse-code/readme.md) - Decode Morse code.
+- [ ] [122 - Hidden Digits](easy/122-hidden-digits/readme.md) - Try to look behind the scenes.
+- [ ] [124 - Road Trip](easy/124-road-trip/readme.md) - Do not be left without petrol.
+- [ ] [128 - Compressed Sequence](easy/128-compressed-sequence/readme.md) - Write a program that compresses a sequence of numbers.
+- [ ] [131 - Split The Number](easy/131-split-the-number/readme.md) - Evaluate the number according to the pattern.
+- [ ] [132 - The Major Element](easy/132-the-major-element/readme.md) - Find the major element in a sequence.
+- [ ] [136 - Racing Chars](easy/136-racing-chars/readme.md) - Explore a race track avoiding crashes.
+- [ ] [139 - Working experience](easy/139-working-experience/readme.md) - Retrieve an actual value.
+- [ ] [140 - Data Recovery](easy/140-data-recovery/readme.md) - Reconstruct a sentence using hints.
+- [ ] [147 - Lettercase Percentage Ratio](easy/147-lettercase-percentage-ratio/readme.md) - Find the percentage ratio.
+- [ ] [149 - Juggling With Zeros](easy/149-juggling-with-zeros/readme.md) - Convert a zero-based number into integer.
+- ['] [152 - Age distribution](easy/152-age-distribution/readme.md) - Print out where the person is.
+- [ ] [156 - Roller Coaster](easy/156-roller-coaster/readme.md) - Turn the text into RoLlErCoAsTeR case.
+- [ ] [160 - Nice angles](easy/160-nice-angles/readme.md) - Convert angle values to sexagesimal format.
+- [ ] [163 - Big Digits](easy/163-big-digits/readme.md) - Print out magnified digits using pseudographics.
+- [ ] [166 - Delta Time](easy/166-delta-time/readme.md) - Find the time difference.
+- [ ] [167 - Read More](easy/167-read-more/readme.md) - Limit the length of the text.
+- [ ] [173 - Without Repetitions](easy/173-without-repetitions/readme.md) - Delete characters that are consistently repeated.
+- [ ] [174 - Slang Flavor](easy/174-slang-flavor/readme.md) - Add some slang to the text.
+- [ ] [178 - Matrix Rotation](easy/178-matrix-rotation/readme.md) - Rotate a 2D matrix 90 degrees clockwise.
+- [ ] [180 - Knight Moves](easy/180-knight-moves/readme.md) - Find positions for the next move of the knight.
+- [ ] [183 - Details](easy/183-details/readme.md) - Determine how many cells will be shifted detail.
+- [ ] [186 - Max Range Sum](easy/186-max-range-sum/readme.md) - Determine max sum at the range.
+- [ ] [189 - Minimum Distance](easy/189-minimum-distance/readme.md) - Find a point with the smallest sum of distances to every given point.
+- [ ] [192 - Compare Points](easy/192-compare-points/readme.md) - Given two (x, y) points A and B, determine which cardinal direction B is from A.
+- [ ] [196 - Swap Numbers](easy/196-swap-numbers/readme.md) - Swap numbers surrounding a word.
+- [ ] [199 - String mask](easy/199-string-mask/readme.md) - Change case letters by mask.
+- [ ] [202 - Stepwise word](easy/202-stepwise-word/readme.md) - Print the longest word in a stepwise manner.
+- [ ] [203 - Strings and arrows](easy/203-strings-and-arrows/readme.md) - Print the number of arrows in a string.
+- [ ] [205 - Clean up the words](easy/205-clean-up-the-words/readme.md) - Print the words separated by spaces.
+- [ ] [208 - Find the highest score](easy/208-find-the-highest-score/readme.md) - Find the highest rate in the table.
+- [ ] [211 - Chardonnay or Cabernet](easy/211-chardonnay-or-cabernet/readme.md) - Guess a wine name.
+- [ ] [214 - Time to eat](easy/214-time-to-eat/readme.md) - Sort timestamps in the right order.
+- [ ] [217 - One zero, two zeros...](easy/217-one-zero-two-zeros/readme.md) - Count zeros in a binary system.
+- [ ] [220 - Trick or Treat](easy/220-trick-or-treat/readme.md) - Count all candies.
+- [ ] [222 - Black card](easy/222-black-card/readme.md) - Find the winner.
+- [ ] [225 - Testing](easy/225-testing/readme.md) - Wanna try to be a tester?
+- [ ] [227 - Real fake](easy/227-real-fake/readme.md) - Check credit card numbers.
+- [ ] [230 - Football](easy/230-football/readme.md) - Find countries that are football fans.
+- [ ] [232 - Not so clever](easy/232-not-so-clever/readme.md) - Simplicity is not always good.
+- [ ] [235 - Simple or trump](easy/235-simple-or-trump/readme.md) - Check which card is higher.
+- [ ] [237 - Panacea - truth or lie](easy/237-panacea-truth-or-lie/readme.md) - Check whether the virus was stopped by antivirus.
+- [ ] [240 - Mersenne prime](easy/240-mersenne-prime/readme.md) - Find all Mersenne numbers smaller than n.
+
+## Moderate (81)
+
+- [ ] [002 - Longest Lines](moderate/002-longest-lines/readme.md) - Finding the 'N' longest lines within a file.
+- [ ] [005 - Detecting Cycles](moderate/005-detecting-cycles/readme.md) - Detecting loops within a sequence.
+- [ ] [009 - Stack Implementation](moderate/009-stack-implementation/readme.md) - Implement a stack interface.
+- [ ] [010 - Mth to last element](moderate/010-mth-to-last-element/readme.md) - Determine the Mth to last element of a list.
+- [ ] [011 - Lowest Common Ancestor](moderate/011-lowest-common-ancestor/readme.md) - Determine the lowest common ancestor within a tree.
+- [ ] [012 - First Non-Repeated Character](moderate/012-first-non-repeated-character/readme.md) - Find the first non repeated character in a string.
+- [ ] [013 - Remove Characters](moderate/013-remove-characters/readme.md) - Delete specific characters from a string.
+- [ ] [015 - Endianness](moderate/015-endianness/readme.md) - Determine the endianness of a system.
+- [ ] [016 - Number of Ones](moderate/016-number-of-ones/readme.md) - Determine the number of one bits in an integer.
+- [ ] [017 - Sum of integers](moderate/017-sum-of-integers/readme.md) - Determine the largest sum of contiguous integers in an array.
+- [ ] [027 - Decimal To Binary](moderate/027-decimal-to-binary/readme.md) - Print the binary representation of a decimal number.
+- [ ] [032 - Trailing String](moderate/032-trailing-string/readme.md) - Determine if a string 'B' occurs at the end of string 'A'.
+- [ ] [033 - Double Squares](moderate/033-double-squares/readme.md) - FaceBook Hacker Cup 2011: Output the number of ways to write X as the sum of two squares.
+- [ ] [034 - Number Pairs](moderate/034-number-pairs/readme.md) - Find pairs of numbers in a sorted array whose sum is X.
+- [ ] [035 - Email Validation](moderate/035-email-validation/readme.md) - Write a regular expression to validate an email address.
+- [ ] [037 - Pangrams](moderate/037-pangrams/readme.md) - Find the missing alphabets.
+- [ ] [041 - Array Absurdity](moderate/041-array-absurdity/readme.md) - Determine if an array contains a duplicated entry.
+- [ ] [043 - Jolly Jumpers](moderate/043-jolly-jumpers/readme.md) - Determine if a sequence of numbers is a Jolly Jumper.
+- [ ] [045 - Reverse and Add](moderate/045-reverse-and-add/readme.md) - Continually add a number to its reverse to arrive at a palindrome.
+- [ ] [046 - Prime Numbers](moderate/046-prime-numbers/readme.md) - Print prime numbers less than N.
+- [ ] [054 - Cash Register](moderate/054-cash-register/readme.md) - Determine the amount of change to be returned.
+- [ ] [063 - Counting Primes](moderate/063-counting-primes/readme.md) - Count the number of primes between two integers.
+- [ ] [066 - Pascals Triangle](moderate/066-pascals-triangle/readme.md) - Print out pascals triangle upto a certain depth.
+- [ ] [068 - Valid parentheses](moderate/068-valid-parentheses/readme.md) - Determine if string is a well-formed parentheses.
+- [ ] [070 - Overlapping Rectangles](moderate/070-overlapping-rectangles/readme.md) - Determine if two rectangles overlap.
+- [ ] [071 - Reverse Groups](moderate/071-reverse-groups/readme.md) - Reverse elements in a list k items at a time.
+- [ ] [073 - Decode Numbers](moderate/073-decode-numbers/readme.md) - Count the number of ways to decode a string.
+- [ ] [074 - Minimum Coins](moderate/074-minimum-coins/readme.md) - Find the minimum number of coins to arrive at a total.
+- [ ] [075 - Flavius Josephus](moderate/075-flavius-josephus/readme.md) - Eliminate every i'th item from a circular list.
+- [ ] [076 - String Rotation](moderate/076-string-rotation/readme.md) - Find if a string is the rotation of another string.
+- [ ] [078 - Sudoku](moderate/078-sudoku/readme.md) - Determine if a grid layout is a valid sudoku solution.
+- [ ] [080 - URI Comparison](moderate/080-uri-comparison/readme.md) - Determine if two URIs match.
+- [ ] [081 - Sum to Zero](moderate/081-sum-to-zero/readme.md) - Count of ways in which the sum of four numbers is zero.
+- [ ] [084 - Balanced Smileys](moderate/084-balanced-smileys/readme.md) - Facebook Hacker Cup 2013 problem.
+- [ ] [089 - Pass Triangle](moderate/089-pass-triangle/readme.md) - Lead the way within the triangle.
+- [ ] [094 - Simple Calculator](moderate/094-simple-calculator/readme.md) - Create a simple calculator.
+- [ ] [098 - Point in Circle](moderate/098-point-in-circle/readme.md) - Define whether a point is in a circle.
+- [ ] [101 - Find a Square](moderate/101-find-a-square/readme.md) - Do 4 points make a square?
+- [ ] [117 - A Pile of Bricks](moderate/117-a-pile-of-bricks/readme.md) - Close a hole in a wall.
+- [ ] [119 - Chain Inspection](moderate/119-chain-inspection/readme.md) - Try to pass a chain.
+- [ ] [121 - Lost In Translation](moderate/121-lost-in-translation/readme.md) - Try to become a native speaker.
+- [ ] [125 - Predict the Number](moderate/125-predict-the-number/readme.md) - Try to go beyond the limits.
+- [ ] [130 - Sequence Transformation](moderate/130-sequence-transformation/readme.md) - Transform a binary sequence into a string.
+- [ ] [133 - City Blocks Flyover](moderate/133-city-blocks-flyover/readme.md) - Chart the path of a helicopter from above to discover how many city blocks it flew over.
+- [ ] [135 - Word chain](moderate/135-word-chain/readme.md) - Find the longest chain of words.
+- [ ] [137 - Seek for an Intruder](moderate/137-seek-for-an-intruder/readme.md) - Find the IP address of an intruder.
+- [ ] [138 - Car Race](moderate/138-car-race/readme.md) - Determine the fastest car.
+- [ ] [143 - The Ministry of Truth](moderate/143-the-ministry-of-truth/readme.md) - Your task is to help the Big Brother.
+- [ ] [146 - Bats Challenge](moderate/146-bats-challenge/readme.md) - Count bats on the wire.
+- [ ] [148 - Color Code Converter](moderate/148-color-code-converter/readme.md) - Determine and convert the color code.
+- [ ] [150 - Roman and Arabic](moderate/150-roman-and-arabic/readme.md) - Calculate aromatic numbers.
+- [ ] [153 - Locks](moderate/153-locks/readme.md) - Calculate unlocked doors.
+- [ ] [158 - Interrupted Bubble Sort](moderate/158-interrupted-bubble-sort/readme.md) - Sort a list of elements. Partially.
+- [ ] [161 - Game of Life](moderate/161-game-of-life/readme.md) - Implement the classical cellular automaton game.
+- [ ] [165 - Suggest Groups](moderate/165-suggest-groups/readme.md) - Help your friends to join groups.
+- [ ] [169 - Filename Pattern](moderate/169-filename-pattern/readme.md) - Filter a list of filenames.
+- [ ] [170 - Guess the Number](moderate/170-guess-the-number/readme.md) - Guess the number in log2(N) steps.
+- [ ] [172 - Card number validation](moderate/172-card-number-validation/readme.md) - Check if bank card numbers are valid.
+- [ ] [177 - Justify the Text](moderate/177-justify-the-text/readme.md) - Align the text to the specified width.
+- [ ] [179 - Broken LCD](moderate/179-broken-lcd/readme.md) - Determine whether a given number can be displayed on the damaged LCD.
+- [ ] [181 - Gronsfeld cipher](moderate/181-gronsfeld-cipher/readme.md) - Decipher the message enciphered with the Gronsfeld cipher.
+- [ ] [184 - Burrows-Wheeler transform](moderate/184-burrows-wheeler-transform/readme.md) - Complete file decompression by inverting BWT.
+- [ ] [187 - Consecutive Primes](moderate/187-consecutive-primes/readme.md) - Determine how many ways the numbers can be arranged such that every consecutive pair sums to a prime.
+- [ ] [190 - Number Operations](moderate/190-number-operations/readme.md) - Determine if it is possible to produce the number 42 with five cards.
+- [ ] [193 - Magic Numbers](moderate/193-magic-numbers/readme.md) - Print out a list of all the magic numbers in a provided range.
+- [ ] [194 - Twenty Forty Eight](moderate/194-twenty-forty-eight/readme.md) - Implement the 2048 game logic.
+- [ ] [197 - Column Names](moderate/197-column-names/readme.md) - Convert integer to excel-style column name.
+- [ ] [200 - Sort matrix columns](moderate/200-sort-matrix-columns/readme.md) - Sort matrix columns from lowest to highest numbers.
+- [ ] [206 - Lucky tickets](moderate/206-lucky-tickets/readme.md) - Count the lucky tickets.
+- [ ] [209 - Black or white](moderate/209-black-or-white/readme.md) - Find the smallest submatrix.
+- [ ] [212 - Robo and Robitta](moderate/212-robo-and-robitta/readme.md) - Count all nuts.
+- [ ] [215 - Double trouble](moderate/215-double-trouble/readme.md) - Calculate the number of correct variants for messages.
+- [ ] [218 - Builders team.](moderate/218-builders-team/readme.md) - Count all squares on the map.
+- [ ] [221 - Organizational Hierarchy](moderate/221-organizational-hierarchy/readme.md) - Recreate the hierarchy tree.
+- [ ] [223 - Alternative reality](moderate/223-alternative-reality/readme.md) - Count all alternative ways.
+- [ ] [226 - Try to solve it](moderate/226-try-to-solve-it/readme.md) - How good decoder are you?
+- [ ] [228 - To PI or not to PI](moderate/228-to-pi-or-not-to-pi/readme.md) - Print a PI number.
+- [ ] [231 - Meet Cocktail sort](moderate/231-meet-cocktail-sort/readme.md) - Learn more about cocktail sort algorithm.
+- [ ] [233 - Meet Comb sort](moderate/233-meet-comb-sort/readme.md) - Learn more about the comb sort algorithm.
+- [ ] [236 - Beat or bit](moderate/236-beat-or-bit/readme.md) - Learn more about the Gray code algorithm.
+- [ ] [238 - Code combinations](moderate/238-code-combinations/readme.md) - Check whether you can make words from the given letters.
+
+## Hard (77)
+
+- [ ] [006 - Longest Common Subsequence](hard/006-longest-common-subsequence/readme.md) - LCS between two strings.
+- [ ] [007 - Prefix expressions](hard/007-prefix-expressions/readme.md) - Evaluating a prefix expression.
+- [ ] [014 - String Permutations](hard/014-string-permutations/readme.md) - Print out all permutations of a string.
+- [ ] [028 - String Searching](hard/028-string-searching/readme.md) - Determine if substring match exists.
+- [ ] [036 - Message Decoding](hard/036-message-decoding/readme.md) - Decode an encoded message.
+- [ ] [038 - String List](hard/038-string-list/readme.md) - Create a new string from constituent alphabets.
+- [ ] [042 - Ugly Numbers](hard/042-ugly-numbers/readme.md) - Count the number of expressions that can be created from a number.
+- [ ] [044 - Following Integer](hard/044-following-integer/readme.md) - Determine the next number in a sequence.
+- [ ] [047 - Palindromic Ranges](hard/047-palindromic-ranges/readme.md) - Find out a range of palindromic numbers.
+- [ ] [048 - Discount Offers](hard/048-discount-offers/readme.md) - Determine optimal pairing of customers with products.
+- [ ] [049 - Peak Traffic](hard/049-peak-traffic/readme.md) - Finding out which friends you interact with most.
+- [ ] [050 - String Substitution](hard/050-string-substitution/readme.md) - Create a new string by replacing substrings within it.
+- [ ] [051 - Closest Pair](hard/051-closest-pair/readme.md) - Given a set of points in a two dimensional space, you will have to find the distance between the closest two points.
+- [ ] [052 - Text Dollar](hard/052-text-dollar/readme.md) - Print out the text dollar amount of a given quantity.
+- [ ] [053 - Repeated Substring](hard/053-repeated-substring/readme.md) - Find the longest repeated substring in a given text.
+- [ ] [055 - Type Ahead](hard/055-type-ahead/readme.md) - Building a type ahead feature.
+- [ ] [056 - Robot Movements](hard/056-robot-movements/readme.md) - Number of ways a robot can reach its destination.
+- [ ] [057 - Spiral Printing](hard/057-spiral-printing/readme.md) - Print out a 2D array in spiral order.
+- [ ] [058 - Levenshtein Distance](hard/058-levenshtein-distance/readme.md) - Find out how big the social network of a word is.
+- [ ] [059 - Telephone Words](hard/059-telephone-words/readme.md) - Print out the words corresponding to a telephone number.
+- [ ] [060 - Grid Walk](hard/060-grid-walk/readme.md) - The number of grid points that can be accessed.
+- [ ] [061 - Decryption](hard/061-decryption/readme.md) - Determine the plain text message from an encrypted string.
+- [ ] [064 - Climbing Stairs](hard/064-climbing-stairs/readme.md) - Count the number of ways to climb to the top of a staircase.
+- [ ] [065 - Word Search](hard/065-word-search/readme.md) - Find if a word exists in a grid.
+- [ ] [069 - Distinct Subsequences](hard/069-distinct-subsequences/readme.md) - Determine the number of distinct subsequnces within a string.
+- [ ] [072 - Minimum Path Sum](hard/072-minimum-path-sum/readme.md) - Calculate the minimum sum of a path through a matrix.
+- [ ] [077 - Da Vyncy](hard/077-da-vyncy/readme.md) - Recreate a document from a set of fragments.
+- [ ] [079 - Minesweeper](hard/079-minesweeper/readme.md) - Find the mines within a M*N matrix.
+- [ ] [085 - Find Min](hard/085-find-min/readme.md) - Facebook Hacker Cup 2013 problem.
+- [ ] [086 - Poker hands](hard/086-poker-hands/readme.md) - Compare two poker hands.
+- [ ] [088 - Juggle Fest](hard/088-juggle-fest/readme.md) - A challenge from Yodle.
+- [ ] [090 - Commuting Engineer](hard/090-commuting-engineer/readme.md) - Travelling Salesman Problem.
+- [ ] [095 - Advanced Calculator](hard/095-advanced-calculator/readme.md) - Create an advanced calculator.
+- [ ] [105 - Largest Sub-Matrix](hard/105-largest-sub-matrix/readme.md) - Determine the largest sub-matrix in a matrix.
+- [ ] [108 - Computer Terminal](hard/108-computer-terminal/readme.md) - Print text to terminal with control sequences.
+- [ ] [109 - Bay Bridges](hard/109-bay-bridges/readme.md) - Build Bridges Over San Francisco Bay.
+- [ ] [110 - Text to Number](hard/110-text-to-number/readme.md) - Convert English text representation of a number to a decimal number.
+- [ ] [114 - Package Problem](hard/114-package-problem/readme.md) - Put as many things into a package as possible.
+- [ ] [118 - Seat your team members](hard/118-seat-your-team-members/readme.md) - Place the employees in a new office.
+- [ ] [120 - Skyscrapers](hard/120-skyscrapers/readme.md) - Outline skyscrapers in a city.
+- [ ] [123 - Efficient Delivery](hard/123-efficient-delivery/readme.md) - Load your tankers with oil.
+- [ ] [126 - Play with DNA](hard/126-play-with-dna/readme.md) - Write an algorithm that a finds DNA segment in a given DNA string.
+- [ ] [127 - Code Plagiarism](hard/127-code-plagiarism/readme.md) - Compare source code of two programs.
+- [ ] [129 - Routing Problem](hard/129-routing-problem/readme.md) - Find all the shortest paths for the package between two specified hosts.
+- [ ] [134 - A bus network](hard/134-a-bus-network/readme.md) - Try to save more time.
+- [ ] [141 - Flight 370](hard/141-flight-370/readme.md) - Follow the current search results.
+- [ ] [142 - Visit to the Headquarters](hard/142-visit-to-the-headquarters/readme.md) - Organize the queues.
+- [ ] [144 - Digit statistics](hard/144-digit-statistics/readme.md) - Find statistics in sequence.
+- [ ] [145 - Running for president](hard/145-running-for-president/readme.md) - Build your strategy to win the Presidency of the United States.
+- [ ] [151 - Cracking eggs](hard/151-cracking-eggs/readme.md) - Determine the number of drops.
+- [ ] [154 - IP package](hard/154-ip-package/readme.md) - Calculate IP checksum.
+- [ ] [155 - ASCII Decryption](hard/155-ascii-decryption/readme.md) - Decrypt a message.
+- [ ] [157 - The Labyrinth](hard/157-the-labyrinth/readme.md) - Find the shortest way to exit.
+- [ ] [159 - Where is Wi-Fi](hard/159-where-is-wi-fi/readme.md) - Find out in which buildings there are hotspots.
+- [ ] [162 - Too unique](hard/162-too-unique/readme.md) - Find and mark the biggest submatrices of unique elements.
+- [ ] [164 - Mars Networks](hard/164-mars-networks/readme.md) - Find the minimum length of the optical fiber cable which connects probes to a network.
+- [ ] [168 - The Frequency](hard/168-the-frequency/readme.md) - Find the signals frequency.
+- [ ] [171 - DNA Alignment](hard/171-dna-alignment/readme.md) - Find the highest score of DNA sequences alignment.
+- [ ] [175 - The Cubes](hard/175-the-cubes/readme.md) - Find the length of the shortest way in the multilevel labyrinth.
+- [ ] [176 - Ray of Light](hard/176-ray-of-light/readme.md) - Trace the path of light distribution.
+- [ ] [182 - Longest Path](hard/182-longest-path/readme.md) - Find the longest path of unique elements.
+- [ ] [185 - Glue Shredded Pieces](hard/185-glue-shredded-pieces/readme.md) - Reconstruct the original text from overlapping pieces.
+- [ ] [188 - Distinct Triangles](hard/188-distinct-triangles/readme.md) - Find the number of distinct triangles formed in a graph.
+- [ ] [191 - Lights Out](hard/191-lights-out/readme.md) - Switch all the lights off with minimum number of moves.
+- [ ] [195 - Crime House](hard/195-crime-house/readme.md) - Count criminals in the Crime House.
+- [ ] [198 - Less Money, More Problems](hard/198-less-money-more-problems/readme.md) - Help citizens by adding new coin denominations.
+- [ ] [201 - Alphabet blocks](hard/201-alphabet-blocks/readme.md) - Forming words from alphabet blocks.
+- [ ] [204 - Straight lines](hard/204-straight-lines/readme.md) - Print the number of straight lines.
+- [ ] [207 - Which way is faster?](hard/207-which-way-is-faster/readme.md) - Find the fastest way.
+- [ ] [210 - Brainf*ck](hard/210-brainf-ck/readme.md) - Blow your mind.
+- [ ] [213 - Lakes, not cakes](hard/213-lakes-not-cakes/readme.md) - Count all lakes.
+- [ ] [216 - Everything or nothing](hard/216-everything-or-nothing/readme.md) - Check if a code is correct.
+- [ ] [219 - The Tourist](hard/219-the-tourist/readme.md) - Find the shortest route between cities.
+- [ ] [224 - Prisoner or Citizen](hard/224-prisoner-or-citizen/readme.md) - In jail or at large?
+- [ ] [229 - Grinch](hard/229-grinch/readme.md) - Help Grinch to find the shortest way.
+- [ ] [234 - Code like Huffman](hard/234-code-like-huffman/readme.md) - Learn more about Huffman's tree.
+- [ ] [239 - As quick as a flash](hard/239-as-quick-as-a-flash/readme.md) - Learn more about the quick sort algorithm.
+
+

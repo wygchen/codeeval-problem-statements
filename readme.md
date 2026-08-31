@@ -20,6 +20,8 @@ that once lived on the platform.
   </sup>
 </p>
 
+Track completed challenges in [progress.md](progress.md).
+
 ## Easy (35 Points)
 
 | CID            | Name                                   | Synopsis                                                                        |
